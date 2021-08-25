@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Tahoma,wght@1,700&display=swap');
+
+*{
+    font-family: 'Tahoma', sans-serif;
+    font-size: 16px;
+}
+
+body{
+
+}
+
+ul{
+    list-style: none;
+}
