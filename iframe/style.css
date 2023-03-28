@@ -1,0 +1,25 @@
+body
+{
+    height: 50vh;
+    width: 50vw;
+    background: black;
+}
+
+main
+{
+    background: red;
+}
+
+section
+{
+    margin: 10vh;
+    background: grey !important;
+}
+
+iframe
+{
+    position: absolute;
+    width: 50vw;
+    height: 50vh;
+    /* background: green !important; */
+}

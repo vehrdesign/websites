@@ -1,0 +1,17 @@
+body
+{
+    height: 50vh;
+    width: 50vw;
+    /* background: yellow; */
+    background: #00005550;
+}
+
+main
+{
+    background: red;
+}
+
+section
+{
+    margin: 10vh;
+}

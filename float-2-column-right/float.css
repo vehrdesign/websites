@@ -1,0 +1,19 @@
+div {
+    max-width:420px;
+    column-count: 2;
+    column-gap: 20px;
+    position: relative;
+    padding-top: 150px;
+  }
+  
+  div img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 150px;
+    width: 200px;
+  }
+  
+  div p:first-of-type {
+    margin-top: -150px;
+  }
