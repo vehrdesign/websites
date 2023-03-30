@@ -5,9 +5,6 @@
     font-size: 16px;
 }
 
-body {
-}
-
 section {
     text-align: center;
     /* display: flex;
@@ -28,14 +25,15 @@ h2{
     display: flex;
     align-items: center;
     justify-content: center;
-    column-gap: 3%;
+    column-gap: 20px;
 }
 
 .card {
     /* border: 2px solid darkblue; */
     /* box-shadow: 5px 10px 5px #88888830; */
-    width: 500px;
-    height: 300px;
+    width: 350px;
+    min-height: 250px;
+    aspect-ratio: 3 / 2;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     position: relative;
     text-align: center;
